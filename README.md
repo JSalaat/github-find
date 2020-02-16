@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Github Find
+
+### Screenshot
+<img src="https://raw.githubusercontent.com/JSalaat/github-find/master/screenshot.jpg" width="768" />
+
 
 ## Available Scripts
 
